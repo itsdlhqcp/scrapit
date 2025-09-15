@@ -1,7 +1,7 @@
 urls = [
     "https://www.bbc.com/news/articles/ckgzez7mwl4o",  
     "https://inshorts.com/en/read",                   
-    // International
+  
     "https://www.aljazeera.com/news",
     "https://www.aljazeera.com/sports",
     "https://www.aljazeera.com/economy",
@@ -24,7 +24,7 @@ urls = [
     "https://www.theguardian.com/uk-news",
     "https://www.theguardian.com/business",
     
-    // Indian Sources
+   
     "https://timesofindia.indiatimes.com/india",
     "https://timesofindia.indiatimes.com/world",
     "https://timesofindia.indiatimes.com/business",
