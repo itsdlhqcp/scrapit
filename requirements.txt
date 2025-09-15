@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+news-please
+newspaper4k
+readability-lxml
